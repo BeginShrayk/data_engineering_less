@@ -1,0 +1,10 @@
+{
+    "1": {
+        "name": "Ilya",
+        "department": "Data Engineer"
+    },
+    "2": {
+        "name": "Igor",
+        "department": "Data Analytic"
+    }
+}

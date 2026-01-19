@@ -16,15 +16,15 @@ import json
 # # Запись файла в проект
 # with open(r'connections.yaml.yaml', 'w') as file:
 #     documents = yaml.dump(l_connections, file)
-
+#
 # Чтение файла, который находится в директории
 # with open(r'connections.yaml.yaml') as file:
 #     list = yaml.load(file, Loader=yaml.FullLoader)
 #     print(list)
 #     print(type(list))
-
+#
 # Запись и чтение файлов json
-
+#
 # dictionary = {
 #     "name": "sasavot",
 #     "password": "bebe21",
