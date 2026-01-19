@@ -14,11 +14,11 @@ import json
 #     }
 # ]
 # # Запись файла в проект
-# with open(r'connections', 'w') as file:
+# with open(r'connections.yaml.yaml', 'w') as file:
 #     documents = yaml.dump(l_connections, file)
 
 # Чтение файла, который находится в директории
-# with open(r'connections') as file:
+# with open(r'connections.yaml.yaml') as file:
 #     list = yaml.load(file, Loader=yaml.FullLoader)
 #     print(list)
 #     print(type(list))
@@ -45,6 +45,4 @@ import json
 #
 # print(json_object)
 # print(type(json_object))
-
-# Формат csv.py
 
